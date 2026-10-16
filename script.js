@@ -5,11 +5,12 @@
 const SITE_CONFIG = {
   // Pakistan WhatsApp format: country code + number, digits only, no +, spaces or dashes.
   // Example format only: 923001234567
-  whatsappNumber: "923241767530",
-  phoneDisplay: "Add your phone number",
-  businessAddress: "Lahore, Pakistan",
+  whatsappNumber: "923354933854",
+  phoneDisplay: "0335 4933854",
+  businessAddress: "Lahore Cantt, Pakistan",
   // Replace with your exact Google Maps share URL when available.
   googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Lahore%2C%20Pakistan"
+  
 };
 
 const menuToggle = document.querySelector(".menu-toggle");
