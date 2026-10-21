@@ -1,16 +1,12 @@
 /*
   Aqua Marine Pure Water website settings
-  IMPORTANT: Replace these placeholder values before publishing.
 */
 const SITE_CONFIG = {
   // Pakistan WhatsApp format: country code + number, digits only, no +, spaces or dashes.
-  // Example format only: 923001234567
   whatsappNumber: "923354933854",
-  phoneDisplay: "Add your phone number",
-  businessAddress: "Lahore, Pakistan",
-  // Replace with your exact Google Maps share URL when available.
-  googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Lahore%2C%20Pakistan"
-  
+  phoneDisplay: "0335 4933854",
+  businessAddress: "Lahore Cantt, Pakistan",
+  googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=31.5019993,74.4076092"
 };
 
 const menuToggle = document.querySelector(".menu-toggle");
