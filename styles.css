@@ -219,3 +219,17 @@ html{scroll-behavior:smooth;
 
 .area-chips{display:flex;flex-wrap:wrap;gap:7px;margin:15px 0}
 .area-chips span{background:#eaf8ff;color:#087fbd;border:1px solid #d3eefa;border-radius:20px;padding:6px 11px;font-size:.68rem;font-weight:700}
+
+
+
+.product-image{height:auto;aspect-ratio:5/3}
+.product-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center}
+
+
+
+
+.brand img{height:50px;width:auto;max-width:220px;object-fit:contain}
+
+.delivery-info{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 22px}
+.delivery-info span{background:#eaf8ff;color:#087fbd;border:1px solid #d3eefa;border-radius:12px;padding:9px 14px;font-size:.78rem;font-weight:700}
+
